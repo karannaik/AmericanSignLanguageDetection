@@ -15,3 +15,5 @@ For GPU:
     pip install -r requirements_gpu.txt
 For CPU:
     pip install -r requirements_cpu.txt
+
+Note: Also, some of the features of this project are coded by taking reference from some of the projects on GitHub which are public.
